@@ -1,0 +1,200 @@
+Topic,Keywords,Score
+Withdrawals,accept direct debit,12.786214170504316
+Withdrawals,direct debit accept,11.50081195164207
+Withdrawals,car rental,9.874560761813585
+Withdrawals,daily limit,8.15296801912045
+Withdrawals,direct debit,7.876776528130893
+Withdrawals,cash withdrawal,7.651964272891096
+Withdrawals,atm withdrawal,7.643358482323414
+Withdrawals,monthly fee,7.092156654384194
+Withdrawals,withdraw cash,6.593262316848758
+Withdrawals,large amount,6.467267777502748
+Withdrawals,total balance,6.465832839273396
+Withdrawals,deposit cash,6.092824934308201
+Withdrawals,total amount,5.546921331148415
+Withdrawals,cash deposit,5.092824934308201
+Withdrawals,charge fee,4.992990648440326
+Withdrawals,accept direct,4.798172676240402
+Transfers,real time transfer,12.791727000850258
+Transfers,sepa instant,6.866048817548762
+Transfers,real time,6.031369302166468
+Transfers,sepa transfer,5.668055502689462
+Transfers,instant payment,5.53878727835836
+Transfers,contact support,5.366254212048542
+Transfers,instant transfer,4.360650043014264
+Transfers,wait day,4.323727483132782
+Transfers,transfer money,4.089101672865258
+Transfers,send money,4.066941222096112
+Transfers,money arrive,3.9249241216018973
+Transfers,receive money,3.562710998825345
+Transfers,take day,3.4980872080474263
+Transfers,payment system,3.399381176892323
+Transfers,time transfer,3.0154391782594914
+Transfers,send payment,2.9604260018785453
+Transfers,sepa payment,2.7881871345979867
+Plans,mastercard credit travel card,16.2753867649524
+Plans,travel card mastercard credit,16.2753867649524
+Plans,mastercard credit travel,11.182300312015254
+Plans,order physical card,9.825581814079886
+Plans,order metal card,9.721130650114855
+Plans,metal card free,9.430825750956828
+Plans,travel card mastercard,9.349092129404646
+Plans,travel card membership,9.086141077802502
+Plans,card mastercard credit,8.68785010419954
+Plans,order new card,8.034747831497839
+Plans,credit travel card,8.008851660634988
+Plans,order travel card,7.992432671932249
+Plans,mastercard credit card,7.72632425201418
+Plans,new online card,7.264691170776139
+Plans,credit card,7.22561911105128
+Plans,card metal,6.959568233250927
+Plans,order replacement,6.203225677106278
+Plans,card travel,6.092860433702768
+Plans,supergreen subscription,6.0522448691564925
+Plans,free replacement,6.017855617736526
+Plans,premium supergreen,5.948825791070565
+Plans,supergreen membership,5.913556704550981
+Plans,travel membership,5.871492644984439
+Plans,card credit,5.821675852159032
+Plans,premium membership,5.736880157169232
+Plans,order physical,5.270389608207115
+Plans,metal card,5.2531636684231096
+Plans,mastercard credit,5.182611543027129
+Plans,green plan,5.096661040999951
+Plans,premium subscription,5.095386799447368
+Plans,virtual card,4.796693450156926
+Plans,physical card,4.720331296536905
+Plans,travel plan,4.601002728353301
+Plans,travel card,4.597675537194281
+Plans,order metal,4.412315506122269
+Plans,online card,3.975555576749233
+Plans,replacement card,3.9741236212561013
+Plans,card expire,3.884907890820397
+Plans,freeze card,3.759332922652991
+Plans,order new,3.620911474870617
+Plans,free travel,3.3462443751248614
+Plans,new pass,3.336804845418218
+Plans,card freeze,3.09190826173986
+Plans,free premium,3.0834061771477366
+Plans,block card,2.901456285371385
+Plans,credit travel,2.8876141673836955
+Plans,credit mastercard,2.666596396023465
+Plans,card active,2.59918384369956
+Plans,green card,2.5608387690139125
+Local Ibans,tax authority,9.803782576580225
+Local Ibans,country residence,7.6451715568574325
+Local Ibans,live germany,6.99869979913241
+Local Ibans,local iban,5.942237740289386
+Local Ibans,sepa transfer,5.668055502689462
+Local Ibans,swift transfer,5.562364898239316
+Local Ibans,german iban,5.4353515052140615
+Local Ibans,dutch bank,4.388098379067529
+Local Ibans,european bank,4.126326994988261
+Local Ibans,dutch iban,4.111294165165251
+Local Ibans,french bank,3.954839789775665
+Local Ibans,german bank,3.7774318525006265
+Local Ibans,iban number,3.560512986440468
+Local Ibans,bank transfer,3.1073550773780525
+Cards,apple pay google,18.439424945167687
+Cards,tap amp pay,14.573695096336905
+Cards,pay google,9.83021358504098
+Cards,apple pay work,9.618294893844066
+Cards,pay apple,9.493681366557801
+Cards,use apple pay,9.226712484553289
+Cards,use google pay,9.075919592643828
+Cards,card apple pay,8.800013050990387
+Cards,card mastercard credit,8.68785010419954
+Cards,mastercard maestro card,8.591341324547344
+Cards,card google pay,8.286529195281972
+Cards,tap amp,7.860520734879678
+Cards,mastercard debit card,7.837742362812378
+Cards,card mastercard debit,7.763741781368601
+Cards,mastercard credit card,7.72632425201418
+Cards,credit card debit,7.699135755212367
+Cards,credit debit card,7.635005417792655
+Cards,debit credit card,7.423501312598944
+Cards,credit card,7.22561911105128
+Cards,pay credit card,6.882018645443885
+Cards,credit card payment,6.711154578986722
+Cards,use maestro card,6.6593379887491935
+Cards,credit card work,6.429646392731826
+Cards,use credit card,6.266285483579708
+Cards,work debit card,6.126027004251178
+Cards,apple pay,6.117585656821511
+Cards,google pay,5.952863187338728
+Cards,card maestro,5.897145732717114
+Cards,card credit,5.821675852159032
+Cards,debit card payment,5.7485721083411505
+Cards,credit card use,5.706858074965687
+Cards,amp pay,5.503060269899208
+Cards,use debit card,5.496348090876516
+Cards,contactless payment,5.410971100754111
+Cards,maestro mastercard,5.285431911730168
+Cards,mastercard credit,5.182611543027129
+Cards,mastercard maestro,5.180078911583937
+Cards,card debit,5.09725311870821
+Cards,mastercard debit,4.815045237766629
+Cards,accept maestro,4.46850351858588
+Cards,pay contactless,4.179913167722685
+Cards,accept mastercard,4.110836900657635
+Cards,payment terminal,3.9767278142076457
+Cards,online card,3.975555576749233
+Cards,debit mastercard,3.9428007849650015
+Cards,maestro card,3.921482141514872
+Cards,mastercard accept,3.735327765565426
+Cards,maestro debit,3.6402167748678487
+Cards,tap pay,3.5687407876786814
+Cards,online payment,3.561427188655319
+Cards,debit card,3.417242648716627
+Cards,debit credit,3.2117703631631755
+Cards,credit debit,3.1461820215356013
+Cards,credit mastercard,2.666596396023465
+Cards,use google,2.605723956650241
+Cards,use maestro,2.5756502338142866
+Cards,use apple,2.5322261440008518
+Accounts,business account personal,13.091233596013097
+Accounts,personal account business,12.914355833929015
+Accounts,multiple sub account,9.839570109467033
+Accounts,create sub account,9.095794748587103
+Accounts,share sub account,8.798798755848104
+Accounts,create joint account,8.76439251869045
+Accounts,joint sub account,8.62332009247421
+Accounts,open business account,8.621508122983066
+Accounts,personal business account,8.447882952698158
+Accounts,access business account,8.221570161990371
+Accounts,open sub account,7.969495733608248
+Accounts,open joint account,7.834490716515091
+Accounts,business account private,7.593388534543287
+Accounts,want close account,7.2794026632313376
+Accounts,private business account,7.271460439655925
+Accounts,add business account,7.002950903755973
+Accounts,sub account want,6.747933187887753
+Accounts,business account,6.277690810242049
+Accounts,account joint,6.2414865611927794
+Accounts,account personal,5.942188611372217
+Accounts,account sub,5.844270539636746
+Accounts,account business,5.472436187057198
+Accounts,account private,5.0511683171922215
+Accounts,sub account,4.922502457788639
+Accounts,monetary account,4.845286039659868
+Accounts,joint account,4.56687140469251
+Accounts,account share,4.521339455053969
+Accounts,personal business,4.298826838169251
+Accounts,create sub,4.151558425946693
+Accounts,create joint,4.050105968564569
+Accounts,open business,3.769554931345649
+Accounts,reopen account,3.6877447626733897
+Accounts,want share,3.6299898732434457
+Accounts,personal account,3.5343709374949235
+Accounts,access business,3.485803884454036
+Accounts,account archive,3.3852690304521964
+Accounts,close account,3.262231346435051
+Accounts,private business,3.1910459907321425
+Accounts,want close,3.0856467412316206
+Accounts,private account,2.886985510575851
+Accounts,share account,2.8559625054090354
+Accounts,account owner,2.644912847085216
+Accounts,want add,2.6344761328162782
+Accounts,multiple account,2.616282400116763
+Accounts,access account,2.5359256981897325
+Accounts,add business,2.501072686393922
