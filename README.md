@@ -1,6 +1,6 @@
 # NLP_SEO_optimisation
 
-This project explores alternative methods of SEO optimisation using customers data based on the forum of Bunq. The models utilised and an in-depth analysis is provided in the SEO_optimisation_Bunq_forum.ipynb. 
+This project explores alternative methods of SEO optimisation using customers data based on the forum of Bunq. An in-depth analysis including detailed text and descriptions are provided in the colab file SEO_optimisation_Bunq_forum.ipynb. 
 
 In order to run the code, clone the repository into google colab using the following command: 
 
