@@ -4,6 +4,6 @@ This project explores alternative methods of SEO optimisation using customers da
 
 In order to run the code, clone the repository into google colab using the following command: 
 
-  !git clone 'https://github.com/fKraus96/NLP_SEO_optimisation.git'
+  _!git clone 'https://github.com/fKraus96/NLP_SEO_optimisation.git'_
 
 The code is self-contained, you simply need to provide a path to the directory and run the cells following the instructions in the notebook.  
